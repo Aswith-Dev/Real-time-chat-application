@@ -92,7 +92,7 @@ npm run dev
 Open `http://localhost:3000` in your browser to view the app.
 
 ### 📷 Screenshots
-![Image](github.com/user-attachments/assets/6f52c5c0-58e9-4ab9-a1a9-d1a2d1cff2cb)
+![Image](https://github.com/user-attachments/assets/f7179346-ea87-4d6d-927a-498c1f911e05)
 
 
 
