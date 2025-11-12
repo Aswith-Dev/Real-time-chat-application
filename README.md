@@ -1,5 +1,17 @@
-## Realtime Chat App
+# TASK1 - REAL-TIME CHAT APPLICATION
+BUILD A REAL-TIME CHAT APP USING SOCKET.IO FOR THE BACKEND AND REACT FOR THE FRONTEND
 
+COMPANY NAME : CODETECH IT SOLUTIONS
+
+NAME : ADE ASWITH
+
+INTERN ID : CT04DR534
+
+DOMAIN NAME : MERN STACK WEB DEVELOPMENT
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH KUMAR
 A real-time chat application whose style is heavily inspired by WhatsApp. Built using the MERN Stack (`MongoDB`, `Express.js`, `React`, `Node.js`) with `Firebase` for file storage and `Socket.IO` for instant messaging.
 
 > [!WARNING]
